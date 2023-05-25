@@ -12,6 +12,8 @@ Basic Types:
                     unsigned short 2 Bytes 0 to 65,535
                     long 8 Bytes -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
                     unsigned long 8 Bytes 0 to 18,446,744,073,709,551,615
+                    char 1 Byte -128 to 127
+                    unsigned char 1 Byte 0 to 255
 
     (B) De punto flotante
             float 4 Bytes 1.2E-38 to 3.4E+38 6 decimal places
