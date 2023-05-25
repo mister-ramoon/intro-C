@@ -17,3 +17,11 @@ Basic Types:
             float 4 Bytes 1.2E-38 to 3.4E+38 6 decimal places
             double 8 Bytes 2.3E-308 to 1.7E+308 15 decimal places
             long double 10 Bytes 3.4E-4932 to 1.1E+4932 19 decimal places
+
+    void: Especifica que no hay vakor disponible, se usa en 3 escenarios
+        1. Funciones que retornan un tipo de dato void.
+            void funcion();
+        2. Funciones que tienen argumentos de tipo void.
+            int rand(void);
+        3. Punteros a tipos de datos void.
+            void *puntero;
