@@ -1,4 +1,10 @@
 #include <stdio.h>
+
+int i, j, k;
+unsigned int minimunMinutes = 30;
+char y = 'y';
+unsigned char workedHours;
+
 int main() {
     printf("Hola Platzi");
     return 0;
